@@ -35,7 +35,7 @@ title: "普益诠财富"
 
 * 在手机 Safari 浏览器上，点击以下地址进行安装。
 
-　　　[地址一](itms-services://?action=download-manifest&url=https://gitee.com/GuYaRi/GuTestIPAResource/raw/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/plist/manifast.plis)　　　[地址二](itms-services://?action=download-manifest&url=https://gitee.com/GuYaRi/GuTestIPAResource/raw/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/plist/manifast.plis)
+　　　[地址一](itms-services://?action=download-manifest&url=https://gitee.com/GuYaRi/GuTestIPAResource/raw/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/plist/manifest.plist)　　　[地址二](itms-services://?action=download-manifest&url=https://gitee.com/GuYaRi/GuTestIPAResource/raw/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/plist/manifest.plist)
 
 
 地址二 为非GitHub网地址
