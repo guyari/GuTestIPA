@@ -5,17 +5,6 @@ tagline: 运用 GitHub + jekyll 承载 ipa 的存储使 iPhone 得以 OTA 下载
 permalink: /about.html
 ---
 
-## 介绍
-
-自制的一个基于 GitHub Page 和 jekyll 的测试下载平台（对，你没有看错，就是那套常用来搭博客的工具）
-
-主要是想用于 iOS 的包管理，对 $299 账号或者那 100 台设备提供一个类似于 蒲公英/fir.im 那样的下载界面，方便下载测试使用。<br/>如果不是这两家要实名认证（拿着身份证拍照的那种）才能上传 ipa 文件，我也不会心血来潮的做这个 =_=
-
-有了这个，你就可以不需受托管平台的约束、也不需要有自己的服务器，一切数据的存储与下载都可以交给 GitHub。当然图标和 ipa资源文件也可不上传至 GitHub ，iOS 仅验证 plist 所在位置是否启用SSL，其余也可放到自己的服务器上，只要 plist 写好引用路径即可。
-
-## 效果
-
-![result](https://raw.githubusercontent.com/1ilI/1ilI.github.io/master/resource/2018-04/result.gif)
 
 ## 使用
 
