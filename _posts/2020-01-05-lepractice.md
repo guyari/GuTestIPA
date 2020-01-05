@@ -42,5 +42,5 @@ title: "普益诠财富"
 
 * iOS11 及以上，打开「相机」应用，扫描以下二维码安装☟
 
-<img alt="downloadImage" src="https://github.com/guyari/GuTestIPAResource/blob/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/1.0.0/images/icon-76.png" width="50%"/>
+<img alt="downloadImage" src="https://github.com/guyari/GuTestIPAResource/blob/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/1.0.0/images/icon-76.png?raw=true" width="50%"/>
 
