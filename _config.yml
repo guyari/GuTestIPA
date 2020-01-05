@@ -8,7 +8,7 @@ url: "https://1ili.github.io" # change this to the base hostname & protocol for 
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: # leave it empty
+theme: jekyll-theme-cayman
 
 qq_number: 894857383
 github_username: 1ilI
