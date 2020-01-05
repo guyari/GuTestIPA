@@ -5,7 +5,7 @@ title: "普益诠财富"
 
 * content
 {:toc}
-<div align="center"> <img alt="icon" src="https://raw.githubusercontent.com/guyari/GuTestIPAResource/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/1.0.0/images/icon-1024.png?token=AFRZTZMPMYXCZRG7RLC7EMK6CGXAM" width="30%"/> <p>普益诠财富</p> </div>
+<div align="center"> <img alt="icon" src="https://github.com/guyari/GuTestIPAResource/blob/master/%E6%99%AE%E7%9B%8A%E8%AF%A0%E8%B4%A2%E5%AF%8C/1.0.0/images/icon-1024.png?raw=true" width="30%"/> <p>普益诠财富</p> </div>
 
 
 
